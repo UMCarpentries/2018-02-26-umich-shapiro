@@ -159,6 +159,11 @@ and our administrator may contact you if we need any extra information.</h4>
   attempt to provide them.
 </p>
 
+<p id="photos">
+	<strong>Photography</strong>:
+	Photographs may be taken during the event for use in UM-SWC's promotional materials. Participants may opt in to being photographed by signing a waiver on the day of the event.
+</p>
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
